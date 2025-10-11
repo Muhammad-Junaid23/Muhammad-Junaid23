@@ -197,23 +197,23 @@ Developed an autonomous AI agent using LangChain and LangGraph to automate the e
 
 <p float="left">
  <a href="https://github.com/Muhammad-Junaid23/Next-Cloudinary-AI">
-    <img src="./images/projects/cloudinary-saas.png" width="450px" height="220px"/>
+    <img src="./images/projects/cloudinary-saas.png" width="400px" height="250px"/>
   </a>
    <a href="https://github.com/Muhammad-Junaid23/Zentry-clone">
-    <img src="./images/projects/Zentry-clone.png" width="450px" height="220px" />
+    <img src="./images/projects/Zentry-clone.png" width="400px" height="250px" />
   </a>
   </a>
    <a href="https://github.com/Muhammad-Junaid23/Diabbymate">
-    <img src="./images/projects/medical-landing-page.jpg" width="450px" height="220px" />
+    <img src="./images/projects/medical-landing-page.jpg" width="400px" height="250px" />
   </a>
   <a href="https://github.com/Muhammad-Junaid23/Scoutemove">
-    <img src="./images/projects/scoutemove.jpg" width="450px" height="220px" />
+    <img src="./images/projects/scoutemove.jpg" width="400px" height="250px" />
   </a>
   <a href="https://github.com/Muhammad-Junaid23/Enseedling-landing-page">
-    <img src="./images/projects/enseedling.jpg" width="450px" height="220px" />
+    <img src="./images/projects/enseedling.jpg" width="400px" height="250px" />
   </a>
   <a href="https://github.com/Muhammad-Junaid23/We-Fresh">
-    <img src="./images/projects/Food-App.jpg" width="450px" height="220px" />
+    <img src="./images/projects/Food-App.jpg" width="400px" height="250px" />
   </a>
   </p>
 
