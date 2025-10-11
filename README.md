@@ -4,7 +4,7 @@
 
 <!-- Uncomment and add your banner image when ready -->
 <div style="display: flex; justify-content: center;">
-  <img src="./banner.png" width="1000px" />
+  <img src="./images/banner.png" width="1000px" />
 </div>
 
 <h1 align="center">
@@ -12,7 +12,7 @@
          alt="Typing SVG" />
 </h1>
 
-## 🌐 Connect with Me
+<!-- ## 🌐 Connect with Me -->
 
 <div align="center">
   <a href="mailto:mj23.muhammadjunaid@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -30,9 +30,9 @@
 
 - 🎓 **Computer Science Student** at Virtual University of Pakistan
 - 💼 Currently working as **Frontend Developer** at **Trust Nexus**
-- 🌱 Building scalable web applications with **React.js**, **Next.js**, and **TypeScript**
-- 🤖 Passionate about **AI/ML** and exploring **Web3** technologies
+- 🌱 Building scalable web applications with **React.js**, **Next.js**, and **TailwindCSS**
 - 🎯 Focused on creating performant, user-centric applications
+- 🤖 Passionate about **AI/ML** and exploring **Web3** technologies
 
 ## 🎨 Featured Projects
 
@@ -72,7 +72,6 @@ Developed an autonomous AI agent using LangChain and LangGraph to automate the e
 
 <table style="border-collapse: collapse; width: 100%; max-width: 900px; margin: 20px auto; font-family: Arial, sans-serif;">
   <tr>
-    <!-- Frontend Technologies -->
     <td align="center" style="padding: 12px;">
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript
     </td>
@@ -94,21 +93,21 @@ Developed an autonomous AI agent using LangChain and LangGraph to automate the e
     <td align="center" style="padding: 12px;">
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="48" height="48" alt="CSS3" /><br>CSS3
     </td>
-  </tr>
-
-  <tr>
-    <!-- Backend & Database -->
-    <td align="center" style="padding: 12px;">
+      <td align="center" style="padding: 12px;">
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="48" height="48" alt="Node.js" /><br>Node.js
     </td>
     <td align="center" style="padding: 12px;">
       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="48" height="48" alt="Express.js" /><br>Express.js
     </td>
-    <td align="center" style="padding: 12px;">
+  </tr>
+
+  <tr>
+  <td align="center" style="padding: 12px;">
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="MongoDB" /><br>MongoDB
     </td>
-    <td align="center" style="padding: 12px;">
-      <img src="https://www.vectorlogo.zone/logos/prisma/prisma-icon.svg" width="48" height="48" alt="Prisma" /><br>Prisma
+    <td align="center" width="96">
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsuYR3Z69dF9QluPZlRgZVxPO3L-OAhPKPbw&s" width="48" height="48" alt="Generative AI" />
+  <br>Generative AI
     </td>
     <td align="center" style="padding: 12px;">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="48" height="48" alt="Python" /><br>Python
@@ -117,12 +116,8 @@ Developed an autonomous AI agent using LangChain and LangGraph to automate the e
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="48" height="48" alt="C++" /><br>C++
     </td>
     <td align="center" style="padding: 12px;">
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="48" height="48" alt="MySQL" /><br>MySQL
+      <img src="./images/clerk.svg" width="80" height="48" alt="Clerk" /><br>Clerk
     </td>
-  </tr>
-
-  <tr>
-    <!-- Tools & Platforms -->
     <td align="center" style="padding: 12px;">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" /><br>Git
     </td>
@@ -135,19 +130,18 @@ Developed an autonomous AI agent using LangChain and LangGraph to automate the e
     <td align="center" style="padding: 12px;">
       <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="48" height="48" alt="Vercel" /><br>Vercel
     </td>
-    <td align="center" style="padding: 12px;">
+  </tr>
+
+  <tr>
+   <td align="center" style="padding: 12px;">
       <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="48" height="48" alt="Netlify" /><br>Netlify
     </td>
     <td align="center" style="padding: 12px;">
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" /><br>Figma
     </td>
     <td align="center" style="padding: 12px;">
-      <img src="https://avatars.githubusercontent.com/u/7892489?s=200&v=4" width="48" height="48" alt="Cloudinary" /><br>Cloudinary
+      <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" width="48" height="48" alt="Slack" /><br>Slack
     </td>
-  </tr>
-
-  <tr>
-    <!-- UI Libraries & Additional Tools -->
     <td align="center" style="padding: 12px;">
       <img src="https://mui.com/static/logo.png" width="48" height="48" alt="Material UI" /><br>Material UI
     </td>
@@ -161,13 +155,10 @@ Developed an autonomous AI agent using LangChain and LangGraph to automate the e
       <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48" height="48" alt="Shadcn/UI" /><br>Shadcn/UI
     </td>
     <td align="center" style="padding: 12px;">
-      <img src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg" width="48" height="48" alt="Stripe" /><br>Stripe
+      <img src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg" width="60" height="48" alt="Stripe" /><br>Stripe
     </td>
     <td align="center" style="padding: 12px;">
-      <img src="https://langchain.com/favicon.ico" width="48" height="48" alt="LangChain" /><br>LangChain
-    </td>
-    <td align="center" style="padding: 12px;">
-      <img src="https://www.vectorlogo.zone/logos/clerk/clerk-icon.svg" width="48" height="48" alt="Clerk" /><br>Clerk
+      <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48" height="48" alt="Streamlit" /><br>Streamlit
     </td>
   </tr>
 </table>
@@ -184,7 +175,7 @@ Developed an autonomous AI agent using LangChain and LangGraph to automate the e
 <!-- Streak Stats & GitHub Stats -->
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Muhammad-Junaid23&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="400"/>
+    <img src="https://streak-stats.demolab.com?user=Muhammad-Junaid23&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="370"/>
   </a>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Muhammad-Junaid23&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=10" width="350"/>
@@ -192,15 +183,39 @@ Developed an autonomous AI agent using LangChain and LangGraph to automate the e
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Junaid23&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Junaid23&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" alt="Top Languages" width="350"/>
 </p>
 
 <!-- Contribution Graph -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Junaid23&theme=tokyo-night&hide_border=true&border_radius=10" alt="Contribution Graph" width="820"/>
-</p>
+</p> -->
 
 ---
+
+# Projects 🥇:
+
+<p float="left">
+ <a href="https://github.com/Muhammad-Junaid23/Next-Cloudinary-AI">
+    <img src="./images/projects/cloudinary-saas.png" width="450px" height="220px"/>
+  </a>
+   <a href="https://github.com/Muhammad-Junaid23/Zentry-clone">
+    <img src="./images/projects/Zentry-clone.png" width="450px" height="220px" />
+  </a>
+  </a>
+   <a href="https://github.com/Muhammad-Junaid23/Diabbymate">
+    <img src="./images/projects/medical-landing-page.jpg" width="450px" height="220px" />
+  </a>
+  <a href="https://github.com/Muhammad-Junaid23/Scoutemove">
+    <img src="./images/projects/scoutemove.jpg" width="450px" height="220px" />
+  </a>
+  <a href="https://github.com/Muhammad-Junaid23/Enseedling-landing-page">
+    <img src="./images/projects/enseedling.jpg" width="450px" height="220px" />
+  </a>
+  <a href="https://github.com/Muhammad-Junaid23/We-Fresh">
+    <img src="./images/projects/Food-App.jpg" width="450px" height="220px" />
+  </a>
+  </p>
 
 ## 🏆 GitHub Trophies
 
