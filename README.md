@@ -213,7 +213,7 @@ Developed an autonomous AI agent using LangChain and LangGraph to automate the e
     <img src="./images/projects/enseedling.jpg" width="400px" height="200px" />
   </a>
   <a href="https://github.com/Muhammad-Junaid23/We-Fresh">
-    <img src="./images/projects/Food-App.jpg" width="400px" height="200px" />
+    <img src="./images/projects/Food-App.jpg" width="400px" height="220px" />
   </a>
   </p>
 
