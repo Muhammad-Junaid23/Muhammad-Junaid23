@@ -57,7 +57,7 @@ Built a production-ready SaaS platform featuring advanced AI capabilities includ
 
 Developed an autonomous AI agent using LangChain and LangGraph to automate the entire academic research workflow. The system searches arXiv.org, synthesizes findings, and generates structured, citation-ready papers in LaTeX and PDF formats powered by Google's Gemini models.
 
-**Tech Stack:** Python, LangChain, LangGraph, Google Gemini API, LaTeX
+**Tech Stack:** Python, LangChain, LangGraph, Google Gemini API
 
 <!-- Add project screenshot when ready -->
 <!-- <p align="center">
