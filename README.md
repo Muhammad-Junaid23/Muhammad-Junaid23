@@ -1,6 +1,4 @@
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-Junaid23&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Junaid23" />
-</p> -->
+
 
 <div style="display: flex; justify-content: center;">
   <img src="./images/banner.png" width="1000px" />
