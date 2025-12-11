@@ -168,20 +168,30 @@ Developed an autonomous AI agent using LangChain and LangGraph to automate the e
 </h1>
 
 <br>
+<div align="center">
+<!-- GitHub General Stats -->
+<img width="65%" src="https://github-stats-mu-nine.vercel.app/api?username=Muhammad-Junaid23&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&theme=react&hide_border=true" alt="GitHub Stats"/>
+
+<!-- Top Languages -->
+<img width="33%" src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=Muhammad-Junaid23&theme=react&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
+
+<!-- GitHub Streak -->
+<img width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Junaid23&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
 
 <!-- Streak Stats & GitHub Stats -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Muhammad-Junaid23&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="370"/>
   </a>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Muhammad-Junaid23&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=10" width="350"/>
-</p>
+</p> -->
 
 <!-- Top Languages -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Junaid23&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" alt="Top Languages" width="350"/>
-</p>
+</p> -->
 
 <!-- Contribution Graph -->
 <!-- <p align="center">
