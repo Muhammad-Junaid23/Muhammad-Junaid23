@@ -223,13 +223,13 @@ Developed an autonomous AI agent using LangChain and LangGraph to automate the e
     <img src="./images/projects/scoutemove.jpg" width="400px" height="200px" />
   </a>
   </p>
-
+<!--
 ## 🏆 GitHub Trophies
-
+--><!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Junaid23&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
-
+-->
 ---
 
 <!-- Snake Animation -->
