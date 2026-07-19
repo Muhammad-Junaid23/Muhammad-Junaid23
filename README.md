@@ -29,7 +29,7 @@
 - 💼 Worked At **Geekinate** & **Trust Nexus** as a **Full Stack Developer**
 - 🌱 Building scalable web applications with **React.js**, **Next.js**, and **TailwindCSS**
 - 🎯 Focused on creating performant, user-centric applications
-- 🤖 Passionate about **AI/ML** and exploring **Web3** technologies
+- 🤖 Exploring **AI/ML** and Mobile App Development. 
 
 ## 🎨 Featured Projects
 
