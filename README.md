@@ -27,7 +27,7 @@
 
 - 🎓 **Computer Science Student** at Virtual University of Pakistan
 - 💼 Worked At **Geekinate** & **Trust Nexus** as a **Full Stack Developer**
-- 🌱 Building scalable web applications with **React.js**, **Next.js**, and **TailwindCSS**
+- 🌱 Building scalable Web & Mobile applications with **Flutter**,**React.js**, **Next.js**, and **TailwindCSS**
 - 🎯 Focused on creating performant, user-centric applications
 - 🤖 Exploring **AI/ML** and Mobile App Development. 
 
