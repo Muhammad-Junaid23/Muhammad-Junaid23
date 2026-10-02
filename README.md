@@ -58,7 +58,7 @@ A cross-platform mobile application for discovering and organizing community eve
 ### 🎨 Imaginera AI Media SaaS
 **Next.js, TypeScript, MongoDB, Stripe, Clerk, Cloudinary**  
 A commercial image manipulation platform offering background removal, generative fill, and object extraction. Features credit-based checkout via Stripe webhooks and Clerk authentication.  
-[Live Demo](https://imaginera.vercel.app)
+[View Repository](https://github.com/Muhammad-Junaid23/AI-powered-Media-Saas-App)
 
 ### 🤖 Researcher AI
 **Python, LangChain, LangGraph, Google Gemini, Streamlit**  
