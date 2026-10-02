@@ -25,41 +25,45 @@
 
 ## 🚀 About Me
 
-- 🎓 **Computer Science Student** at Virtual University of Pakistan
-- 💼 Worked At **Geekinate** & **Trust Nexus** as a **Full Stack Developer**
-- 🌱 Building scalable Web & Mobile applications with **Flutter**,**React.js**, **Next.js**, and **TailwindCSS**
-- 🎯 Focused on creating performant, user-centric applications
-- 🤖 Exploring **AI/ML** and Mobile App Development. 
-
-## 🎨 Featured Projects
-
-### 🌟 Imaginera – [Live Demo](https://imaginera.vercel.app)
-
-**Full-Stack SaaS Platform with AI Image Processing**
-
-Built a production-ready SaaS platform featuring advanced AI capabilities including image restoration, object removal, background removal, recoloring, and generative fill. Implemented comprehensive features including Stripe payment integration, Clerk authentication, community gallery, and advanced search functionality.
-
-**Tech Stack:** Next.js, MongoDB, Cloudinary, Tailwind CSS, Stripe, Clerk
-
-<!-- Add project screenshot when ready -->
-<!-- <p align="center">
-  <img src="imaginera-screenshot.png" width="600px" alt="Imaginera Project" />
-</p> -->
+- 🎓 **Computer Science Student** at Virtual University of Pakistan (Expected 2027, CGPA: 3.15)
+- 💼 Currently a **Flutter Developer Intern** at Skypulse Solutions, with past experience at Geekinate & Trust Nexus
+- 🌱 Building scalable Web & Mobile applications with **Flutter**, **React.js**, **Next.js**, and **TypeScript**
+- 🤖 Actively exploring **AI/ML integration**, building LLM agents, RAG pipelines, and automated systems
+- 🎯 Focused on clean architecture, foundational understanding, and shipping production-ready products
 
 ---
 
-### 🤖 Researcher AI – [GitHub Repo](https://github.com/Muhammad-Junaid23/Researcher-AI)
+## 💼 Work Experience
 
-**Autonomous AI Research Agent**
+- **Flutter Developer Intern** @ **Skypulse Solutions** *(Sept 2026 – Present)*  
+  Building cross-platform mobile apps with Flutter, Dart, and Firebase. Leading independent development of production-grade features with Riverpod state management.
+- **MERN Stack Developer Intern** @ **Geekinate** *(Dec 2024 – May 2025)*  
+  Developed modern web applications using Next.js and React. Migrated legacy codebases and built reusable UI design systems.
+- **Frontend Developer Intern** @ **Trust Nexus** *(Jul 2025 – Dec 2025)*  
+  Spearheaded frontend development for a Desktop POS system (Next.js 15, PWA) and a Web3 DApp dashboard.
 
-Developed an autonomous AI agent using LangChain and LangGraph to automate the entire academic research workflow. The system searches arXiv.org, synthesizes findings, and generates structured, citation-ready papers in LaTeX and PDF formats powered by Google's Gemini models.
+---
 
-**Tech Stack:** Python, LangChain, LangGraph, Google Gemini API
+## 🌟 Featured Projects
 
-<!-- Add project screenshot when ready -->
-<!-- <p align="center">
-  <img src="researcher-ai-screenshot.png" width="600px" alt="Researcher AI Project" />
-</p> -->
+### 🎓 Smart Query Routing & Email Automation (Final Year Project)
+**Next.js, FastAPI, PostgreSQL, Google Gemini, Tailwind CSS**  
+An AI-powered university communication engine. Processes student queries via natural language, determines intent and department destination, calculates confidence scores, and routes tickets automatically or queues them for manual review.  
+
+### 📱 Event Management System (Mobile App)
+**Flutter, Dart, Riverpod, REST API**  
+A cross-platform mobile application for discovering and organizing community events and polls. Built with a modular, feature-first architecture and global reactive state management using Riverpod for instant UI updates.  
+[View Repository](https://github.com/Muhammad-Junaid23/Event_Management_App)
+
+### 🎨 Imaginera AI Media SaaS
+**Next.js, TypeScript, MongoDB, Stripe, Clerk, Cloudinary**  
+A commercial image manipulation platform offering background removal, generative fill, and object extraction. Features credit-based checkout via Stripe webhooks and Clerk authentication.  
+[Live Demo](https://imaginera.vercel.app)
+
+### 🤖 Researcher AI
+**Python, LangChain, LangGraph, Google Gemini, Streamlit**  
+An autonomous research assistant that queries arXiv, extracts structured findings from academic PDFs, and synthesizes literature reviews using multi-step AI agent workflows.  
+[View Repository](https://github.com/Muhammad-Junaid23/Researcher-AI)
 
 ---
 
