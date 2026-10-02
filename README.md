@@ -25,7 +25,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Computer Science Student** at Virtual University of Pakistan (Expected 2027, CGPA: 3.15)
+- 🎓 **Computer Science Student** at Virtual University of Pakistan
 - 💼 Currently a **Flutter Developer Intern** at Skypulse Solutions, with past experience at Geekinate & Trust Nexus
 - 🌱 Building scalable Web & Mobile applications with **Flutter**, **React.js**, **Next.js**, and **TypeScript**
 - 🤖 Actively exploring **AI/ML integration**, building LLM agents, RAG pipelines, and automated systems
