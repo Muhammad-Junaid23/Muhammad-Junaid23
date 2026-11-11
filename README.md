@@ -47,7 +47,7 @@
 ## 🌟 Featured Projects
 
 ### 🎓 Smart Query Routing & Email Automation (Final Year Project)
-**Next.js, FastAPI, PostgreSQL, Google Gemini, Tailwind CSS**  
+**Next.js, Python, FastAPI, PostgreSQL, Google Gemini API, Tailwind CSS**  
 An AI-powered university communication engine. Processes student queries via natural language, determines intent and department destination, calculates confidence scores, and routes tickets automatically or queues them for manual review.  
 
 ### 📱 Event Management System (Mobile App)
