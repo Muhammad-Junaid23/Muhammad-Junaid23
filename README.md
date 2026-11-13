@@ -40,7 +40,7 @@
 - **MERN Stack Developer Intern** @ **Geekinate** *(Dec 2024 – May 2025)*  
   Developed modern web applications using Next.js and React. Migrated legacy codebases and built reusable UI design systems.
 - **Frontend Developer Intern** @ **Trust Nexus** *(Jul 2025 – Dec 2025)*  
-  Spearheaded frontend development for a Desktop POS system (Next.js 15, PWA).
+  Spearheaded frontend development for a Desktop POS system.
 
 ---
 
